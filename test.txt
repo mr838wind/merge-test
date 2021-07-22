@@ -1,5 +1,5 @@
 hello, world,
-how is today's weather?
+merged version: how, hi
 hello, world,
 hello, world,
 hello, world,
