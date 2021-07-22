@@ -1,5 +1,6 @@
 hello, world,
 merged version: how, hi
 hello, world,
+gogo, new conflict
 hello, world,
 hello, world,
