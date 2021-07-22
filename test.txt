@@ -2,5 +2,6 @@ hello, world,
 merged version: how, hi
 hello, world,
 gogo, new conflict
+new test
 hello, world,
 hello, world,
