@@ -1,5 +1,6 @@
 hello, world,
 merged version: how, hi
 hello, world,
+new test
 hello, world,
 hello, world,
