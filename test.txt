@@ -1,5 +1,5 @@
 hello, world,
-merged version: how, hi
+merged version: how, hi: change 2
 hello, world,
 gogo, new conflict
 new test
